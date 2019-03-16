@@ -15,7 +15,7 @@ sudo -H pip install pillow
 sudo -H pip install django
 sudo -H pip install image
 sudo -H pip install enum
-
+sudo -H pip install opencv-python opencv-contrib-python
 
 sudo apt-get install python3-pip
 sudo -H pip3 install --upgrade pip
@@ -26,4 +26,5 @@ sudo -H pip3 install matplotlib
 sudo -H pip3 install scikit-learn
 sudo -H pip3 install pathlib
 sudo -H pip3 install pypng
-sudo -H pip install pillow
+sudo -H pip3 install pillow
+sudo -H pip3 install opencv-python opencv-contrib-python
